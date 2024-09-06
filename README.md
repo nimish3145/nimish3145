@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/nimish3145/nimish3145/blob/adb5ec566c4da91038f839371760f45713f1fc0b/Nimish%20Kawathekar.jpg)
 <h1 align="center">Hi 👋, I'm Nimish Kawathekar</h1>
 <h3 align="center">Architecting Scalable Solutions.</h3>
 
