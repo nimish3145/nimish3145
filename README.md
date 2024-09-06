@@ -1,3 +1,4 @@
+![logo](https://github.com/adityapathak0007/Aditya-Pathak/blob/main/Nimish Kawathekar.jpg)
 <h1 align="center">Hi 👋, I'm Nimish Kawathekar</h1>
 <h3 align="center">Architecting Scalable Solutions.</h3>
 
