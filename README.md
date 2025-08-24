@@ -1,17 +1,17 @@
+![logo](https://github.com/nimish3145/nimish3145/blob/main/Nimish%20Kawathekar%20Banner.jpg)
 <h1 align="center">Hi 👋, I'm Nimish Kawathekar</h1>
-<h3 align="center">Business Analyst & Junior Project Manager | Driving Digital Transformation with Data & Agile</h3>
+<h3 align="center">Business Analyst & Junior Project Manager | Driving Digital Transformation with Data & Agile</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nimish3145&label=Profile%20views&color=0e75b6&style=flat" alt="nimish3145" /> </p>
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nimish3145" alt="nimish3145" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adityapathak0007&label=Profile%20views&color=0e75b6&style=flat" alt="adityapathak0007" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+- 👨‍💻 All of my projects are available at [Project_Portfolio](https://github.com/nimish3145?tab=repositories)
 
-- 👨‍💻 All of my projects are available at [https://github.com/nimish3145?tab=repositories](https://github.com/nimish3145?tab=repositories)
+- 📫 How to reach me *nimishkawathekar@gmail.com*
 
-- 📫 How to reach me **nimishkawathekar@gmail.com**
+- 📄 Know about my experiences [My Resume](https://github.com/nimish3145/nimish3145/blob/main/NIMISH_KAWATHEKAR%20_%20Resume.pdf)
 
-- 📄 Know about my experiences [https://github.com/nimish3145/nimish3145/blob/main/NIMISH_KAWATHEKAR%20_%20Resume.pdf](https://github.com/nimish3145/nimish3145/blob/main/NIMISH_KAWATHEKAR%20_%20Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
