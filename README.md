@@ -1,4 +1,4 @@
-![logo](https://github.com/adityapathak0007/Aditya-Pathak/blob/main/banner.png)
+![logo](https://github.com/adityapathak0007/Aditya-Pathak/blob/main/Nimish Kawathekar Banner.jpg)
 <h1 align="center">Hi 👋, I'm Aditya Pathak</h1>
 <h3 align="center">Unlocking the Power of Data with Passion and Precision</h3>
 
