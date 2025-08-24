@@ -1,16 +1,16 @@
 ![logo](https://github.com/nimish3145/nimish3145/blob/main/Nimish%20Kawathekar%20Banner.jpg)
-<h1 align="center">Hi 👋, I'm Aditya Pathak</h1>
-<h3 align="center">Unlocking the Power of Data with Passion and Precision</h3>
+<h1 align="center">Hi 👋, I'm Nimish Kawathekar</h1>
+<h3 align="center">Business Analyst & Junior Project Manager | Driving Digital Transformation with Data & Agile</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityapathak0007&label=Profile%20views&color=0e75b6&style=flat" alt="adityapathak0007" /> </p>
 
-- 👨‍💻 All of my projects are available at [Project_Portfolio](https://github.com/adityapathak0007?tab=repositories)
+- 👨‍💻 All of my projects are available at [Project_Portfolio](https://github.com/nimish3145?tab=repositories)
 
-- 📫 How to reach me *adityapathak034@gmail.com*
+- 📫 How to reach me *nimishkawathekar@gmail.com*
 
-- 📄 Know about my experiences [My Resume](https://github.com/adityapathak0007/adityapathak0007/blob/main/Aditya_CV_.pdf)
+- 📄 Know about my experiences [My Resume](https://github.com/nimish3145/nimish3145/blob/main/NIMISH_KAWATHEKAR%20_%20Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
